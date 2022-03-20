@@ -1,5 +1,5 @@
 # repetition-scheduler
-Helps to remember study materials.<br>
+Helps mastering study materials.<br>
 Fits itself to your memory.
 
 After messing around for several years with a lot of the spaced repetition algorithms out there,<br>
@@ -11,8 +11,8 @@ I've thrown together this piece of code in a spreadsheet, which is based purely 
 which is that spacing out repetitions can increase the duration of memories,<br>
 and is designed in a way I find much more useful for academic studies.<br>
 After figuring this out, I also figured out you could implement a slightly less affective system with pen and paper,<br>
-which I used for quite some time with satisfying results, and I plan to post here as well (coming soon! maybe)
+which I used for quite some time with satisfying results, and I plan to post it here as well (coming soon! maybe)
 
 To download the file [click here](https://ayfal.github.io/repetition-scheduler/).  
-You'll need a computer and Excel. as it's written in VBA.  
+You'll need a computer and Excel, as it's written in VBA.  
 Feel free to open a discussion or issue on the [GitHub repository](https://github.com/ayfal/repetition-scheduler).
