@@ -13,6 +13,6 @@ and is designed in a way I find much more useful for academic studies.<br>
 After figuring this out, I also figured out you could implement a slightly less affective system with pen and paper,<br>
 which I used for quite some time with satisfying results, and I plan to post it here as well (coming soon! maybe)
 
-To download the file [click here](https://ayfal.github.io/repetition-scheduler/).  
+To download the file [click here](https://github.com/ayfal/repetition-scheduler/raw/main/repetition-scheduler.xlsm).  
 You'll need a computer and Excel, as it's written in VBA.  
 Feel free to open a discussion or issue on the [GitHub repository](https://github.com/ayfal/repetition-scheduler).
