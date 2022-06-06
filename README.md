@@ -3,7 +3,7 @@ Helps mastering study materials.<br>
 Fits itself to your memory.
 
 After messing around for several years with a lot of the spaced repetition algorithms out there,<br>
-I've come to conclude that while their basis is pretty solid, they're mostly based on speculation,<br>
+I've come to conclude that while their basis is pretty solid, they're mostly built on speculation,<br>
 and therefor it's no wonder they don't fit themselves quite right to our memory.<br>
 Plus they suffer from what I personally found to be bad design, which they inherited from one famous and pretty flawed system.<br>
 So after I realized there's no real way to predict the right time for reviewing each piece of information you want to master, <br>
